@@ -79,7 +79,8 @@ PASTE THE CIRCUIT HERE
 PASTE THE OUTPUT WAVEFORM HERE
 ---
 
-![Uploading image.png…]()
+<img width="1176" height="395" alt="image" src="https://github.com/user-attachments/assets/e5787b29-1874-43ef-9e94-564259444310" />
+
 
 
 ## RESULT
